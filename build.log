@@ -1,0 +1,400 @@
+Logfile initialized
+[INFO] logfile = /Users/oscarrendon/Documents/PocketGuide/build.log
+[DEBUG] /Users/oscarrendon/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/android/builder.py install PocketGuide /Users/oscarrendon/Documents/AndroidSDK /Users/oscarrendon/Documents/PocketGuide com.media8.testapps 15
+[INFO] Titanium SDK version: 2.1.1 (07/27/12 14:01 0fd84a2)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 2 devices/emulators
+[DEBUG] Device connected... (waited 0 seconds)
+[DEBUG] waited 0.014199 seconds on emulator to get ready
+[DEBUG] com.media8.testapps installed? False
+[INFO] Copying CommonJS modules...
+[INFO] Copying project resources..
+[TRACE] Generating Java Classes
+[DEBUG] Processing Android resource drawables
+[DEBUG] copying app icon: /Users/oscarrendon/Documents/PocketGuide/build/android/bin/assets/Resources/appicon.png
+[DEBUG] generating theme.xml
+[DEBUG] found drawable-long-land-hdpi splash screen at /Users/oscarrendon/Documents/PocketGuide/Resources/android/images/res-long-land-hdpi/default.png
+[DEBUG] copying /Users/oscarrendon/Documents/PocketGuide/Resources/android/images/res-long-land-hdpi/default.png splash screen to /Users/oscarrendon/Documents/PocketGuide/build/android/res/drawable-long-land-hdpi/background.png
+[DEBUG] found drawable-long-land-ldpi splash screen at /Users/oscarrendon/Documents/PocketGuide/Resources/android/images/res-long-land-ldpi/default.png
+[DEBUG] copying /Users/oscarrendon/Documents/PocketGuide/Resources/android/images/res-long-land-ldpi/default.png splash screen to /Users/oscarrendon/Documents/PocketGuide/build/android/res/drawable-long-land-ldpi/background.png
+[DEBUG] found drawable-long-port-hdpi splash screen at /Users/oscarrendon/Documents/PocketGuide/Resources/android/images/res-long-port-hdpi/default.png
+[DEBUG] copying /Users/oscarrendon/Documents/PocketGuide/Resources/android/images/res-long-port-hdpi/default.png splash screen to /Users/oscarrendon/Documents/PocketGuide/build/android/res/drawable-long-port-hdpi/background.png
+[DEBUG] found drawable-long-port-ldpi splash screen at /Users/oscarrendon/Documents/PocketGuide/Resources/android/images/res-long-port-ldpi/default.png
+[DEBUG] copying /Users/oscarrendon/Documents/PocketGuide/Resources/android/images/res-long-port-ldpi/default.png splash screen to /Users/oscarrendon/Documents/PocketGuide/build/android/res/drawable-long-port-ldpi/background.png
+[DEBUG] found drawable-notlong-land-hdpi splash screen at /Users/oscarrendon/Documents/PocketGuide/Resources/android/images/res-notlong-land-hdpi/default.png
+[DEBUG] copying /Users/oscarrendon/Documents/PocketGuide/Resources/android/images/res-notlong-land-hdpi/default.png splash screen to /Users/oscarrendon/Documents/PocketGuide/build/android/res/drawable-notlong-land-hdpi/background.png
+[DEBUG] found drawable-notlong-land-ldpi splash screen at /Users/oscarrendon/Documents/PocketGuide/Resources/android/images/res-notlong-land-ldpi/default.png
+[DEBUG] copying /Users/oscarrendon/Documents/PocketGuide/Resources/android/images/res-notlong-land-ldpi/default.png splash screen to /Users/oscarrendon/Documents/PocketGuide/build/android/res/drawable-notlong-land-ldpi/background.png
+[DEBUG] found drawable-notlong-land-mdpi splash screen at /Users/oscarrendon/Documents/PocketGuide/Resources/android/images/res-notlong-land-mdpi/default.png
+[DEBUG] copying /Users/oscarrendon/Documents/PocketGuide/Resources/android/images/res-notlong-land-mdpi/default.png splash screen to /Users/oscarrendon/Documents/PocketGuide/build/android/res/drawable-notlong-land-mdpi/background.png
+[DEBUG] found drawable-notlong-port-hdpi splash screen at /Users/oscarrendon/Documents/PocketGuide/Resources/android/images/res-notlong-port-hdpi/default.png
+[DEBUG] copying /Users/oscarrendon/Documents/PocketGuide/Resources/android/images/res-notlong-port-hdpi/default.png splash screen to /Users/oscarrendon/Documents/PocketGuide/build/android/res/drawable-notlong-port-hdpi/background.png
+[DEBUG] found drawable-notlong-port-ldpi splash screen at /Users/oscarrendon/Documents/PocketGuide/Resources/android/images/res-notlong-port-ldpi/default.png
+[DEBUG] copying /Users/oscarrendon/Documents/PocketGuide/Resources/android/images/res-notlong-port-ldpi/default.png splash screen to /Users/oscarrendon/Documents/PocketGuide/build/android/res/drawable-notlong-port-ldpi/background.png
+[DEBUG] found drawable-notlong-port-mdpi splash screen at /Users/oscarrendon/Documents/PocketGuide/Resources/android/images/res-notlong-port-mdpi/default.png
+[DEBUG] copying /Users/oscarrendon/Documents/PocketGuide/Resources/android/images/res-notlong-port-mdpi/default.png splash screen to /Users/oscarrendon/Documents/PocketGuide/build/android/res/drawable-notlong-port-mdpi/background.png
+[DEBUG] found splash screen at /Users/oscarrendon/Documents/PocketGuide/build/android/bin/assets/Resources/default.png
+[TRACE] Writing out AndroidManifest.xml
+[DEBUG] adding /Users/oscarrendon/Documents/PocketGuide/build/android/gen/com/media8/testapps/PocketguideActivity.java to javac build list
+[DEBUG] adding /Users/oscarrendon/Documents/PocketGuide/build/android/gen/com/media8/testapps/PocketguideAppInfo.java to javac build list
+[DEBUG] adding /Users/oscarrendon/Documents/PocketGuide/build/android/gen/com/media8/testapps/PocketguideApplication.java to javac build list
+[DEBUG] adding /Users/oscarrendon/Documents/PocketGuide/build/android/gen/com/media8/testapps/R.java to javac build list
+[DEBUG] Building Java Sources: "/Users/oscarrendon/Documents/PocketGuide/build/android/gen/com/media8/testapps/PocketguideActivity.java" "/Users/oscarrendon/Documents/PocketGuide/build/android/gen/com/media8/testapps/PocketguideAppInfo.java" "/Users/oscarrendon/Documents/PocketGuide/build/android/gen/com/media8/testapps/PocketguideApplication.java" "/Users/oscarrendon/Documents/PocketGuide/build/android/gen/com/media8/testapps/R.java"
+[INFO] Compiling Android Resources... This could take some time
+[DEBUG] Android classes.dex built
+[DEBUG] creating unsigned apk: /Users/oscarrendon/Documents/PocketGuide/build/android/bin/app-unsigned.apk
+[DEBUG] from resource zip => assets/Resources/css/style.css
+[DEBUG] from resource zip => assets/Resources/images/imageview/todo/Default.png
+[DEBUG] from resource zip => assets/Resources/images/imageview/todo/logo-large.png
+[DEBUG] from resource zip => assets/Resources/images/imageview/todo/logo-large@2x.png
+[DEBUG] from resource zip => assets/Resources/images/imageview/todo/logo-small.png
+[DEBUG] from resource zip => assets/Resources/images/imageview/todo/logo-small@2x.png
+[DEBUG] from resource zip => assets/Resources/images/imageview/todo/welcome_image_v2.png
+[DEBUG] from resource zip => assets/Resources/images/imageview/todo/welcome_image_v2@2x.png
+[DEBUG] from resource zip => assets/Resources/images/imageview/0.png
+[DEBUG] from resource zip => assets/Resources/images/imageview/0@2x.png
+[DEBUG] from resource zip => assets/Resources/images/imageview/0_es.png
+[DEBUG] from resource zip => assets/Resources/images/imageview/0_es@2x.png
+[DEBUG] from resource zip => assets/Resources/images/imageview/1.png
+[DEBUG] from resource zip => assets/Resources/images/imageview/1@2x.png
+[DEBUG] from resource zip => assets/Resources/images/imageview/1_es.png
+[DEBUG] from resource zip => assets/Resources/images/imageview/1_es@2x.png
+[DEBUG] from resource zip => assets/Resources/images/imageview/2.png
+[DEBUG] from resource zip => assets/Resources/images/imageview/2@2x.png
+[DEBUG] from resource zip => assets/Resources/images/imageview/2_es.png
+[DEBUG] from resource zip => assets/Resources/images/imageview/2_es@2x.png
+[DEBUG] from resource zip => assets/Resources/images/imageview/3.png
+[DEBUG] from resource zip => assets/Resources/images/imageview/3@2x.png
+[DEBUG] from resource zip => assets/Resources/images/imageview/3_es.png
+[DEBUG] from resource zip => assets/Resources/images/imageview/3_es@2x.png
+[DEBUG] from resource zip => assets/Resources/images/imageview/4.png
+[DEBUG] from resource zip => assets/Resources/images/imageview/4@2x.png
+[DEBUG] from resource zip => assets/Resources/images/imageview/4_es.png
+[DEBUG] from resource zip => assets/Resources/images/imageview/4_es@2x.png
+[DEBUG] from resource zip => assets/Resources/images/imageview/5.png
+[DEBUG] from resource zip => assets/Resources/images/imageview/5@2x.png
+[DEBUG] from resource zip => assets/Resources/images/imageview/5_es.png
+[DEBUG] from resource zip => assets/Resources/images/imageview/5_es@2x.png
+[DEBUG] from resource zip => assets/Resources/images/imageview/6.png
+[DEBUG] from resource zip => assets/Resources/images/imageview/6@2x.png
+[DEBUG] from resource zip => assets/Resources/images/imageview/6_es.png
+[DEBUG] from resource zip => assets/Resources/images/imageview/6_es@2x.png
+[DEBUG] from resource zip => assets/Resources/images/imageview/7.png
+[DEBUG] from resource zip => assets/Resources/images/imageview/7@2x.png
+[DEBUG] from resource zip => assets/Resources/images/imageview/7_es.png
+[DEBUG] from resource zip => assets/Resources/images/imageview/7_es@2x.png
+[DEBUG] from resource zip => assets/Resources/images/test/appcelerator@2x.png
+[DEBUG] from resource zip => assets/Resources/images/test/ar@2x.png
+[DEBUG] from resource zip => assets/Resources/images/test/bkg-ar@2x.png
+[DEBUG] from resource zip => assets/Resources/images/test/btn-bkg-lrg@2x.png
+[DEBUG] from resource zip => assets/Resources/images/test/btn-close@2x.png
+[DEBUG] from resource zip => assets/Resources/images/test/direction@2x.png
+[DEBUG] from resource zip => assets/Resources/images/test/header-ar@2x.png
+[DEBUG] from resource zip => assets/Resources/images/test/icn_ar.png
+[DEBUG] from resource zip => assets/Resources/images/test/icn_ar@2x.png
+[DEBUG] from resource zip => assets/Resources/images/test/icn_map.png
+[DEBUG] from resource zip => assets/Resources/images/test/icn_map@2x.png
+[DEBUG] from resource zip => assets/Resources/images/test/logo-large.png
+[DEBUG] from resource zip => assets/Resources/images/test/logo-small@2x.png
+[DEBUG] from resource zip => assets/Resources/images/test/logo-small@2x2.png
+[DEBUG] from resource zip => assets/Resources/images/test/tab-home.png
+[DEBUG] from resource zip => assets/Resources/images/test/tab-home@2x.png
+[DEBUG] from resource zip => assets/Resources/images/test/tab-more.png
+[DEBUG] from resource zip => assets/Resources/images/test/tab-nearby.png
+[DEBUG] from resource zip => assets/Resources/images/test/tab-settings.png
+[DEBUG] from resource zip => assets/Resources/images/test/tab-settings@2x.png
+[DEBUG] from resource zip => assets/Resources/images/test/tab-translate.png
+[DEBUG] from resource zip => assets/Resources/images/test/table-haschild@2x.png
+[DEBUG] from resource zip => assets/Resources/images/test/target@2x.png
+[DEBUG] from resource zip => assets/Resources/images/test/target@2x2.png
+[DEBUG] from resource zip => assets/Resources/images/test/threesphere@2x.png
+[DEBUG] from resource zip => assets/Resources/images/welcome_keyfacts/ph_welcome_factsImage1.png
+[DEBUG] from resource zip => assets/Resources/images/welcome_keyfacts/ph_welcome_factsImage2.png
+[DEBUG] from resource zip => assets/Resources/images/welcome_keyfacts/ph_welcome_factsImage3.png
+[DEBUG] from resource zip => assets/Resources/images/welcome_keyfacts/ph_welcome_factsImage4.png
+[DEBUG] from resource zip => assets/Resources/images/welcome_keyfacts/ph_welcome_factsImage5.png
+[DEBUG] from resource zip => assets/Resources/images/PRTC_Phase_01_iphone_list_yelp_01.png
+[DEBUG] from resource zip => assets/Resources/images/appcelerator.png
+[DEBUG] from resource zip => assets/Resources/images/apple_logo.jpg
+[DEBUG] from resource zip => assets/Resources/images/ar.png
+[DEBUG] from resource zip => assets/Resources/images/arrowNext_welcome_factsImage.png
+[DEBUG] from resource zip => assets/Resources/images/arrowNext_welcome_factsImage@2x.png
+[DEBUG] from resource zip => assets/Resources/images/arrowPrevious_welcome_factsImage.png
+[DEBUG] from resource zip => assets/Resources/images/arrowPrevious_welcome_factsImage@2x.png
+[DEBUG] from resource zip => assets/Resources/images/arrow_userlocation.png
+[DEBUG] from resource zip => assets/Resources/images/atlanta.jpg
+[DEBUG] from resource zip => assets/Resources/images/bg_barblue.png
+[DEBUG] from resource zip => assets/Resources/images/bg_bargrey.png
+[DEBUG] from resource zip => assets/Resources/images/bg_button_kaki.png
+[DEBUG] from resource zip => assets/Resources/images/bg_button_kaki_selected.png
+[DEBUG] from resource zip => assets/Resources/images/bg_logo_yelp.png
+[DEBUG] from resource zip => assets/Resources/images/bg_result_ar.png
+[DEBUG] from resource zip => assets/Resources/images/bg_welcome_factsImage.jpg
+[DEBUG] from resource zip => assets/Resources/images/bg_welcome_factsImage@2x.jpg
+[DEBUG] from resource zip => assets/Resources/images/bg_yelp_bar.png
+[DEBUG] from resource zip => assets/Resources/images/bkg-ar.png
+[DEBUG] from resource zip => assets/Resources/images/bkg.png
+[DEBUG] from resource zip => assets/Resources/images/btn-close.png
+[DEBUG] from resource zip => assets/Resources/images/btn-nearme.png
+[DEBUG] from resource zip => assets/Resources/images/btn-nearme@2x.png
+[DEBUG] from resource zip => assets/Resources/images/btn-nearme_es.png
+[DEBUG] from resource zip => assets/Resources/images/btn-nearme_es@2x.png
+[DEBUG] from resource zip => assets/Resources/images/btn_addToFavs.png
+[DEBUG] from resource zip => assets/Resources/images/btn_arrow_blue.png
+[DEBUG] from resource zip => assets/Resources/images/btn_back_grey.png
+[DEBUG] from resource zip => assets/Resources/images/btn_back_grey@2x.png
+[DEBUG] from resource zip => assets/Resources/images/btn_back_grey_es.png
+[DEBUG] from resource zip => assets/Resources/images/btn_back_grey_es@2x.png
+[DEBUG] from resource zip => assets/Resources/images/btn_bg_repeat.png
+[DEBUG] from resource zip => assets/Resources/images/btn_bubbleclose.png
+[DEBUG] from resource zip => assets/Resources/images/btn_bubbleclose@2x.png
+[DEBUG] from resource zip => assets/Resources/images/btn_bubbleclose_pressed.png
+[DEBUG] from resource zip => assets/Resources/images/btn_call.png
+[DEBUG] from resource zip => assets/Resources/images/btn_gallery_photos.png
+[DEBUG] from resource zip => assets/Resources/images/btn_gallery_photos@2x.png
+[DEBUG] from resource zip => assets/Resources/images/btn_gallery_photos_es.png
+[DEBUG] from resource zip => assets/Resources/images/btn_gallery_photos_es@2x.png
+[DEBUG] from resource zip => assets/Resources/images/btn_gallery_photos_selected.png
+[DEBUG] from resource zip => assets/Resources/images/btn_gallery_photos_selected@2x.png
+[DEBUG] from resource zip => assets/Resources/images/btn_gallery_photos_selected_es.png
+[DEBUG] from resource zip => assets/Resources/images/btn_gallery_photos_selected_es@2x.png
+[DEBUG] from resource zip => assets/Resources/images/btn_gallery_videos.png
+[DEBUG] from resource zip => assets/Resources/images/btn_gallery_videos@2x.png
+[DEBUG] from resource zip => assets/Resources/images/btn_gallery_videos_es.png
+[DEBUG] from resource zip => assets/Resources/images/btn_gallery_videos_es@2x.png
+[DEBUG] from resource zip => assets/Resources/images/btn_gallery_videos_selected.png
+[DEBUG] from resource zip => assets/Resources/images/btn_gallery_videos_selected@2x.png
+[DEBUG] from resource zip => assets/Resources/images/btn_gallery_videos_selected_es.png
+[DEBUG] from resource zip => assets/Resources/images/btn_gallery_videos_selected_es@2x.png
+[DEBUG] from resource zip => assets/Resources/images/btn_mapit.png
+[DEBUG] from resource zip => assets/Resources/images/btn_transportation_bus.png
+[DEBUG] from resource zip => assets/Resources/images/btn_transportation_bus@2x.png
+[DEBUG] from resource zip => assets/Resources/images/btn_transportation_bus_es.png
+[DEBUG] from resource zip => assets/Resources/images/btn_transportation_bus_es@2x.png
+[DEBUG] from resource zip => assets/Resources/images/btn_transportation_bus_selected.png
+[DEBUG] from resource zip => assets/Resources/images/btn_transportation_bus_selected@2x.png
+[DEBUG] from resource zip => assets/Resources/images/btn_transportation_bus_selected_es.png
+[DEBUG] from resource zip => assets/Resources/images/btn_transportation_bus_selected_es@2x.png
+[DEBUG] from resource zip => assets/Resources/images/btn_transportation_taxi.png
+[DEBUG] from resource zip => assets/Resources/images/btn_transportation_taxi@2x.png
+[DEBUG] from resource zip => assets/Resources/images/btn_transportation_taxi_es.png
+[DEBUG] from resource zip => assets/Resources/images/btn_transportation_taxi_es@2x.png
+[DEBUG] from resource zip => assets/Resources/images/btn_transportation_taxi_selected.png
+[DEBUG] from resource zip => assets/Resources/images/btn_transportation_taxi_selected@2x.png
+[DEBUG] from resource zip => assets/Resources/images/btn_transportation_taxi_selected_es.png
+[DEBUG] from resource zip => assets/Resources/images/btn_transportation_taxi_selected_es@2x.png
+[DEBUG] from resource zip => assets/Resources/images/btn_view_bg.png
+[DEBUG] from resource zip => assets/Resources/images/btn_welcome_facts.png
+[DEBUG] from resource zip => assets/Resources/images/btn_welcome_facts@2x.png
+[DEBUG] from resource zip => assets/Resources/images/btn_welcome_facts_es.png
+[DEBUG] from resource zip => assets/Resources/images/btn_welcome_facts_es@2x.png
+[DEBUG] from resource zip => assets/Resources/images/btn_welcome_facts_selected.png
+[DEBUG] from resource zip => assets/Resources/images/btn_welcome_facts_selected@2x.png
+[DEBUG] from resource zip => assets/Resources/images/btn_welcome_facts_selected_es.png
+[DEBUG] from resource zip => assets/Resources/images/btn_welcome_facts_selected_es@2x.png
+[DEBUG] from resource zip => assets/Resources/images/btn_welcome_tips.png
+[DEBUG] from resource zip => assets/Resources/images/btn_welcome_tips@2x.png
+[DEBUG] from resource zip => assets/Resources/images/btn_welcome_tips_es.png
+[DEBUG] from resource zip => assets/Resources/images/btn_welcome_tips_es@2x.png
+[DEBUG] from resource zip => assets/Resources/images/btn_welcome_tips_facts.png
+[DEBUG] from resource zip => assets/Resources/images/btn_welcome_tips_facts@2x.png
+[DEBUG] from resource zip => assets/Resources/images/btn_welcome_tips_facts_es.png
+[DEBUG] from resource zip => assets/Resources/images/btn_welcome_tips_facts_es@2x.png
+[DEBUG] from resource zip => assets/Resources/images/btn_welcome_tips_facts_selected.png
+[DEBUG] from resource zip => assets/Resources/images/btn_welcome_tips_facts_selected@2x.png
+[DEBUG] from resource zip => assets/Resources/images/btn_welcome_tips_selected.png
+[DEBUG] from resource zip => assets/Resources/images/btn_welcome_tips_selected@2x.png
+[DEBUG] from resource zip => assets/Resources/images/btn_welcome_tips_selected_es.png
+[DEBUG] from resource zip => assets/Resources/images/btn_welcome_tips_selected_es@2x.png
+[DEBUG] from resource zip => assets/Resources/images/bubble_white.png
+[DEBUG] from resource zip => assets/Resources/images/bubble_yellow.png
+[DEBUG] from resource zip => assets/Resources/images/defualt_thumb_review.png
+[DEBUG] from resource zip => assets/Resources/images/direction.png
+[DEBUG] from resource zip => assets/Resources/images/direction2.png
+[DEBUG] from resource zip => assets/Resources/images/header-ar.png
+[DEBUG] from resource zip => assets/Resources/images/icn_ar.png
+[DEBUG] from resource zip => assets/Resources/images/icn_ar@2x.png
+[DEBUG] from resource zip => assets/Resources/images/icn_arrow_grey.png
+[DEBUG] from resource zip => assets/Resources/images/icn_arrow_grey@2x.png
+[DEBUG] from resource zip => assets/Resources/images/icn_arrow_grey_down.png
+[DEBUG] from resource zip => assets/Resources/images/icn_arrow_grey_down@2x.png
+[DEBUG] from resource zip => assets/Resources/images/icn_arrow_white.png
+[DEBUG] from resource zip => assets/Resources/images/icn_map.png
+[DEBUG] from resource zip => assets/Resources/images/icn_map@2x.png
+[DEBUG] from resource zip => assets/Resources/images/icon_fact.png
+[DEBUG] from resource zip => assets/Resources/images/icon_fact@2x.png
+[DEBUG] from resource zip => assets/Resources/images/icon_tips.png
+[DEBUG] from resource zip => assets/Resources/images/icon_tips@2x.png
+[DEBUG] from resource zip => assets/Resources/images/icon_youtube_0.png
+[DEBUG] from resource zip => assets/Resources/images/icon_youtube_0@2x.png
+[DEBUG] from resource zip => assets/Resources/images/icon_youtube_1.png
+[DEBUG] from resource zip => assets/Resources/images/icon_youtube_1@2x.png
+[DEBUG] from resource zip => assets/Resources/images/icon_youtube_2.png
+[DEBUG] from resource zip => assets/Resources/images/icon_youtube_2@2x.png
+[DEBUG] from resource zip => assets/Resources/images/icon_youtube_3.png
+[DEBUG] from resource zip => assets/Resources/images/icon_youtube_3@2x.png
+[DEBUG] from resource zip => assets/Resources/images/icon_youtube_4.png
+[DEBUG] from resource zip => assets/Resources/images/icon_youtube_4@2x.png
+[DEBUG] from resource zip => assets/Resources/images/icon_youtube_5.png
+[DEBUG] from resource zip => assets/Resources/images/icon_youtube_5@2x.png
+[DEBUG] from resource zip => assets/Resources/images/logo-large.png
+[DEBUG] from resource zip => assets/Resources/images/logo-large@2x.png
+[DEBUG] from resource zip => assets/Resources/images/logo-large_es.png
+[DEBUG] from resource zip => assets/Resources/images/logo-large_es@2x.png
+[DEBUG] from resource zip => assets/Resources/images/logo-small.png
+[DEBUG] from resource zip => assets/Resources/images/logo-small@2x.png
+[DEBUG] from resource zip => assets/Resources/images/logo-small_es.png
+[DEBUG] from resource zip => assets/Resources/images/logo-small_es@2x.png
+[DEBUG] from resource zip => assets/Resources/images/logo_yelp.png
+[DEBUG] from resource zip => assets/Resources/images/logo_yelp@2x.png
+[DEBUG] from resource zip => assets/Resources/images/map_pin.png
+[DEBUG] from resource zip => assets/Resources/images/map_pin@2x.png
+[DEBUG] from resource zip => assets/Resources/images/map_pin_1.png
+[DEBUG] from resource zip => assets/Resources/images/map_pin_10.png
+[DEBUG] from resource zip => assets/Resources/images/map_pin_10@2x.png
+[DEBUG] from resource zip => assets/Resources/images/map_pin_11.png
+[DEBUG] from resource zip => assets/Resources/images/map_pin_11@2x.png
+[DEBUG] from resource zip => assets/Resources/images/map_pin_12.png
+[DEBUG] from resource zip => assets/Resources/images/map_pin_12@2x.png
+[DEBUG] from resource zip => assets/Resources/images/map_pin_13.png
+[DEBUG] from resource zip => assets/Resources/images/map_pin_13@2x.png
+[DEBUG] from resource zip => assets/Resources/images/map_pin_14.png
+[DEBUG] from resource zip => assets/Resources/images/map_pin_14@2x.png
+[DEBUG] from resource zip => assets/Resources/images/map_pin_15.png
+[DEBUG] from resource zip => assets/Resources/images/map_pin_15@2x.png
+[DEBUG] from resource zip => assets/Resources/images/map_pin_16.png
+[DEBUG] from resource zip => assets/Resources/images/map_pin_16@2x.png
+[DEBUG] from resource zip => assets/Resources/images/map_pin_17.png
+[DEBUG] from resource zip => assets/Resources/images/map_pin_17@2x.png
+[DEBUG] from resource zip => assets/Resources/images/map_pin_18.png
+[DEBUG] from resource zip => assets/Resources/images/map_pin_18@2x.png
+[DEBUG] from resource zip => assets/Resources/images/map_pin_19.png
+[DEBUG] from resource zip => assets/Resources/images/map_pin_19@2x.png
+[DEBUG] from resource zip => assets/Resources/images/map_pin_1@2x.png
+[DEBUG] from resource zip => assets/Resources/images/map_pin_2.png
+[DEBUG] from resource zip => assets/Resources/images/map_pin_20.png
+[DEBUG] from resource zip => assets/Resources/images/map_pin_20@2x.png
+[DEBUG] from resource zip => assets/Resources/images/map_pin_2@2x.png
+[DEBUG] from resource zip => assets/Resources/images/map_pin_3.png
+[DEBUG] from resource zip => assets/Resources/images/map_pin_3@2x.png
+[DEBUG] from resource zip => assets/Resources/images/map_pin_4.png
+[DEBUG] from resource zip => assets/Resources/images/map_pin_4@2x.png
+[DEBUG] from resource zip => assets/Resources/images/map_pin_5.png
+[DEBUG] from resource zip => assets/Resources/images/map_pin_5@2x.png
+[DEBUG] from resource zip => assets/Resources/images/map_pin_6.png
+[DEBUG] from resource zip => assets/Resources/images/map_pin_6@2x.png
+[DEBUG] from resource zip => assets/Resources/images/map_pin_7.png
+[DEBUG] from resource zip => assets/Resources/images/map_pin_7@2x.png
+[DEBUG] from resource zip => assets/Resources/images/map_pin_8.png
+[DEBUG] from resource zip => assets/Resources/images/map_pin_8@2x.png
+[DEBUG] from resource zip => assets/Resources/images/map_pin_9.png
+[DEBUG] from resource zip => assets/Resources/images/map_pin_9@2x.png
+[DEBUG] from resource zip => assets/Resources/images/map_pin_blue.png
+[DEBUG] from resource zip => assets/Resources/images/ph_welcome_factsImage.png
+[DEBUG] from resource zip => assets/Resources/images/sim-bkg.png
+[DEBUG] from resource zip => assets/Resources/images/system_btn_bg.png
+[DEBUG] from resource zip => assets/Resources/images/tab-home.png
+[DEBUG] from resource zip => assets/Resources/images/tab-home@2x.png
+[DEBUG] from resource zip => assets/Resources/images/tab-more.png
+[DEBUG] from resource zip => assets/Resources/images/tab-more@2x.png
+[DEBUG] from resource zip => assets/Resources/images/tab-nearby.png
+[DEBUG] from resource zip => assets/Resources/images/tab-nearby@2x.png
+[DEBUG] from resource zip => assets/Resources/images/tab-translate.png
+[DEBUG] from resource zip => assets/Resources/images/tab-translate@2x.png
+[DEBUG] from resource zip => assets/Resources/images/target.png
+[DEBUG] from resource zip => assets/Resources/images/target2.png
+[DEBUG] from resource zip => assets/Resources/images/target_v1.png
+[DEBUG] from resource zip => assets/Resources/images/threesphere.png
+[DEBUG] from resource zip => assets/Resources/images/welcome_image.png
+[DEBUG] from resource zip => assets/Resources/images/welcome_image@2x.png
+[DEBUG] from resource zip => assets/Resources/images/welcome_image_es.png
+[DEBUG] from resource zip => assets/Resources/images/welcome_image_es@2x.png
+[DEBUG] from resource zip => assets/Resources/js/jquery-1.4.2.min.js
+[DEBUG] from resource zip => assets/Resources/js/titanium_oauth.js
+[DEBUG] from resource zip => assets/Resources/json/welcome_facts.json
+[DEBUG] from resource zip => assets/Resources/json/welcome_facts_es.json
+[DEBUG] from resource zip => assets/Resources/json/welcome_tips.json
+[DEBUG] from resource zip => assets/Resources/json/welcome_tips_es.json
+[DEBUG] from resource zip => assets/Resources/lib/functionsModule.js
+[DEBUG] from resource zip => assets/Resources/lib/mathModule.js
+[DEBUG] from resource zip => assets/Resources/lib/menuBar.js
+[DEBUG] from resource zip => assets/Resources/lib/oauth.js
+[DEBUG] from resource zip => assets/Resources/lib/optionsMenu.js
+[DEBUG] from resource zip => assets/Resources/lib/photosAndVideos.js
+[DEBUG] from resource zip => assets/Resources/lib/pocketGuide.js
+[DEBUG] from resource zip => assets/Resources/lib/sha1.js
+[DEBUG] from resource zip => assets/Resources/lib/tipsAndFacts.js
+[DEBUG] from resource zip => assets/Resources/lib/transportation.js
+[DEBUG] from resource zip => assets/Resources/lib/ui.js
+[DEBUG] from resource zip => assets/Resources/FuturaStd-Light.otf
+[DEBUG] from resource zip => assets/Resources/app.js
+[DEBUG] from resource zip => assets/Resources/appicon.png
+[DEBUG] from resource zip => assets/Resources/cameraar.js
+[DEBUG] from resource zip => assets/Resources/casinos.csv
+[DEBUG] from resource zip => assets/Resources/casinos.json
+[DEBUG] from resource zip => assets/Resources/default.png
+[DEBUG] from resource zip => assets/Resources/default_app_logo.png
+[DEBUG] from resource zip => assets/Resources/default_app_logo@2x.png
+[DEBUG] from resource zip => assets/Resources/map.js
+[DEBUG] from resource zip => assets/Resources/map_userlocation.js
+[DEBUG] from resource zip => assets/Resources/winCategories.js
+[DEBUG] from resource zip => assets/Resources/winGallery.js
+[DEBUG] from resource zip => assets/Resources/winHome.js
+[DEBUG] from resource zip => assets/Resources/winHome_v1.js
+[DEBUG] from resource zip => assets/Resources/winPocketGuide.js
+[DEBUG] from resource zip => assets/Resources/winPocketGuideFavs.js
+[DEBUG] from resource zip => assets/Resources/winPocketGuideFavsDetail.js
+[DEBUG] from resource zip => assets/Resources/winTransBus.html
+[DEBUG] from resource zip => assets/Resources/winTranslator.js
+[DEBUG] from resource zip => assets/Resources/winTransportation.js
+[DEBUG] from resource zip => assets/Resources/winWelcomeTipsFacts.js
+[DEBUG] from resource zip => assets/Resources/windetail.js
+[DEBUG] from resource zip => assets/Resources/winmainYelp.js
+[DEBUG] from resource zip => assets/Resources/winsettings.js
+[DEBUG] from resource zip => assets/Resources/winyelpresults.js
+[DEBUG] from resource zip => assets/app.json
+[DEBUG] from resource zip => assets/index.json
+[DEBUG] from resource zip => assets/tiapp.xml
+[DEBUG] from resource zip => res/drawable/appicon.png
+[DEBUG] from resource zip => res/drawable/background.png
+[DEBUG] from resource zip => res/layout/titanium_tabgroup.xml
+[DEBUG] from resource zip => AndroidManifest.xml
+[DEBUG] from resource zip => resources.arsc
+[DEBUG] from resource zip => res/drawable-long-land-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-long-land-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-long-port-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-long-port-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-land-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-land-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-land-mdpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-port-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-port-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-port-mdpi/background.png
+[DEBUG] from JAR /Users/oscarrendon/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/android/titanium.jar => org/appcelerator/titanium/build.properties
+[DEBUG] from JAR /Users/oscarrendon/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/background.png
+[DEBUG] from JAR /Users/oscarrendon/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on.png
+[DEBUG] from JAR /Users/oscarrendon/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_18.png
+[DEBUG] from JAR /Users/oscarrendon/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_48.png
+[DEBUG] from JAR /Users/oscarrendon/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more.png
+[DEBUG] from JAR /Users/oscarrendon/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_18.png
+[DEBUG] from JAR /Users/oscarrendon/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_48.png
+[DEBUG] from JAR /Users/oscarrendon/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_normal.9.png
+[DEBUG] from JAR /Users/oscarrendon/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_pressed.9.png
+[DEBUG] from JAR /Users/oscarrendon/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_selected.9.png
+[DEBUG] from JAR /Users/oscarrendon/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/default_icon.png
+[DEBUG] from JAR /Users/oscarrendon/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/photoDefault.png
+[DEBUG] from JAR /Users/oscarrendon/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/binding.js
+[DEBUG] from JAR /Users/oscarrendon/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/binding.min.js
+[DEBUG] from JAR /Users/oscarrendon/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/json2.js
+[DEBUG] from JAR /Users/oscarrendon/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/polling.js
+[DEBUG] from JAR /Users/oscarrendon/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/polling.min.js
+[DEBUG] from JAR /Users/oscarrendon/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/android/thirdparty.jar => org/apache/Commons-NOTICE.txt
+[DEBUG] from JAR /Users/oscarrendon/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/android/thirdparty.jar => org/apache/HttpComponents-NOTICE.txt
+[DEBUG] from JAR /Users/oscarrendon/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/android/thirdparty.jar => org/apache/mime4j-NOTICE.txt
+[DEBUG] installing native SDK libs
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 2 devices/emulators
+[DEBUG] Device connected... (waited 0 seconds)
+[DEBUG] waited 0.014357 seconds on emulator to get ready
+[INFO] Installing application on device
+[INFO] Application installed. Launch from drawer on Home Screen

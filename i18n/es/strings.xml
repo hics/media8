@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <!-- **** -->
+    <!-- copy -->
+    <!-- ******************************************************************** -->
+    <string name="tab_home">Inicio</string>
+    <string name="tab_nearby">Cerca</string>
+    <string name="tab_translate">Traducir</string>
+    <string name="tab_settings">Ajustes</string>
+    <string name="close">Close</string>
+    <string name="gallery_noconn1">No hay red de datos móviles</string>
+    <string name="gallery_noconn2">Por favor, conectarse a una red celular de datos para ver esta sección</string>
+    <!--transportation-->
+    <string name="taxi1">Tasas fijas desde el Aeropuerto Internacional Luis Muñoz Marín a cada hotel en el interior del área metropolitana.</string>
+    <string name="taxi2">Selecciona Hotel</string>
+    <string name="taxi3">Tasas fijas desde el Aeropuerto Internacional Luis Muñoz Marín a cada pueblo en las afueras del área metropolitana.</string>
+    <string name="taxi4">Selecciona el pueblo</string>
+    <string name="taxi5">Un cargo de $1.00 se aplicará a cada pieza de equipaje. Un cargo de $2.00 por persona se aplicará por  el sexto y séptimo pasajero. Todos los servicios de noche (10 p.m.- 06 a.m.) tendrán un cargo adicional de $ 1.00. Los peajes no están incluidos. Para más información llamar al: 1-800-866-7827</string>
+    <!--nearby-->
+    <string name="loading">Cargando...</string>
+    <string name="mapit">Mapa</string>
+    <string name="yourlocation">Su Lugar</string>
+    <string name="wearesorry">¡Lo sentimos!</string>
+    <string name="enableinternet">Necesita habilitar su conexión a Internet para ver esta sección.</string>
+    <string name="noconnection1">Conexión a Internet deshabilitada.</string>
+    <string name="noconnection2">You need to enable this in your settings to view this section.</string>
+    <string name="nolocation1">Lugares desactivados.</string>
+    <string name="nolocation2">Necesita habilitar su conexión a Internet para ver esta sección.</string>
+    <string name="place_msg1">Tienes que estar en Puerto Rico para ver esta sección.</string>
+    <string name="place_msg2">Estás cerca de\n</string>
+    <string name="categories">Categorias</string>
+    <string name="artent">Artes y entretenimiento</string>
+    <string name="historical">Lugares históricos</string>
+    <string name="hotels">Hoteles</string>
+    <string name="nightlife">Vida nocturna</string>
+    <string name="restaurants">Restaurantes</string>
+    <string name="shopping">Compras</string>
+    <string name="title_map">Mapa</string>
+    <string name="text_reviews">Comentarios</string>
+    <string name="text_reviewsntips">Comentarios y Consejos</string>
+    <string name="title_dirtobusiness">Como llegar al sitio</string>
+    <string name="text_nomatches">No se encontraron coincidencias</string>
+	<!-- Translator -->    
+    <string name="tra_title">Traductor</string>
+    <string name="tra_fromto">Español to English</string>
+    <string name="tra_bblfrom">Español</string>
+    <string name="tra_bblto">English</string>
+    <string name="tra_btn_tran">Traducir</string>
+    <string name="tra_btn_speech">Hablar</string>
+    <string name="tra_from">es</string>
+    <string name="tra_to">en</string>
+    <string name="tra_close">Cerrar</string>
+    <string name="tra_enter_text">Por favor escribe texto a traducir.</string>
+    <string name="tra_nospeechalert">Necesitas traducir un texto para usar la funcion de 'hablar'.</string>
+    <string name="tra_working">trabajando...</string>
+	<!-- Gallery -->
+    <string name="txt_photo">Fotos</string>
+	<!-- Pocket Guide -->
+    <string name="pg_welcome">Bienvenido al Pocket Guide de Puerto Rico</string>
+    <string name="pg_welcome2">Si ya has creado un nombre de usuario y una contraseña, puedes utilizar esta información para iniciar la sesión. Si no la has creado todavía, por favor visita la versión de escritorio de nuestro sitio y crea una.</string>
+	<string name="pg_username">Nombre de usuario:</string>
+	<string name="pg_password">Contraseña:</string>
+	<string name="pg_login">Entrar</string>
+	<string name="neterror">Error de red</string>
+	<string name="pg_uspwreq">Nombre de usuario y contraseña requeridos</string>
+	<string name="pg_remove">Borrar</string>
+	<!-- settings -->    
+    <string name="settings">Ajustes</string>
+    <string name="set_head1">Ajustar la distancia de búsqueda de la aplicaciones</string>
+    <string name="set_text1">Ha seleccionado: </string>
+    <string name="set_text2">Ingresa aqui el código para habilitar todos los lugares.</string>
+    <string name="btn_text1">Habilitar todos los lugares</string>
+    <string name="msg1">¡Listo!</string>
+    <string name="msg2">Has habilitado la sección 'Cerca de' para ser utilizada en todos los lugares.</string>
+    <string name="msg3">Código incorrecto</string>
+    <string name="msg4">Ha introducido un código incorrect</string>
+    <!-- ****** -->
+    <!-- images -->
+    <!-- ******************************************************************** -->
+    <string name="btn_back">images/btn_back_grey_es.png</string>
+    <string name="img_logolarge">images/logo-large_es.png</string>
+	<!-- home -->
+    <string name="img_welcome">images/welcome_image_es.png</string>
+    <string name="img_welcometipsfacts">images/btn_welcome_tips_facts_es.png</string>
+    <string name="carr_ext">_es.png</string>
+    <string name="btn_nearby">images/btn-nearme_es.png</string>
+    <!-- Tips and Facts -->
+	<string name="btn_tips">images/btn_welcome_tips_es.png</string>
+    <string name="btn_tips_selected">images/btn_welcome_tips_selected_es.png</string>
+	<string name="btn_facts">images/btn_welcome_facts_es.png</string>
+    <string name="btn_facts_selected">images/btn_welcome_facts_selected_es.png</string>
+	<!-- transportation -->
+    <string name="btn_taxi">images/btn_transportation_taxi_es.png</string>
+    <string name="btn_taxi_selected">images/btn_transportation_taxi_selected_es.png</string>
+    <string name="btn_bus">images/btn_transportation_bus_es.png</string>
+    <string name="btn_bus_selected">images/btn_transportation_bus_selected_es.png</string>
+	<!-- gallery -->    
+    <string name="btn_photos">images/btn_gallery_photos_es.png</string>
+    <string name="btn_photos_selected">images/btn_gallery_photos_selected_es.png</string>
+    <string name="btn_videos">images/btn_gallery_videos_es.png</string>
+    <string name="btn_videos_selected">images/btn_gallery_videos_selected_es.png</string>
+    <!-- ***** -->
+    <!-- Files -->
+    <!-- ******************************************************************** -->
+    <string name="json_tips">json/welcome_tips_es.json</string>
+    <string name="json_facts">json/welcome_facts_es.json</string>
+    <!-- pocket guide -->
+    <string name="pg_feed">http://m.seepuertorico.com/app-xml/es/</string>
+</resources>
+
+

@@ -1,0 +1,58 @@
+[
+	{
+		title: "Fact 1",
+		text:  "¿Sabía que Puerto Rico cuenta con algunas de las más impresionantes maravillas naturales y hechas por el hombre en el mundo? "
+	},
+	{
+		title: "Fact 2",
+		text:  "Para ser una pequeña isla (unas 100 millas de largo y 35 millas de ancho, o casi el tamaño de Connecticut), ofrecemos mucho más que nuestras playas… aunque si lo que desea es playa, ¡tenemos 300 de ellas! "
+	},
+	{
+		title: "Fact 3",
+		text:  "En Puerto Rico, el español y el inglés son los idiomas oficiales; la mayoría de los puertorriqueños hablan inglés. "
+	},
+	{
+		title: "Fact 4",
+		text:  "Puerto Rico es un territorio de EE. UU. y el dólar estadounidense es la moneda oficial; ¡los ciudadanos de EE. UU. no necesitan pasaporte ni preocuparse por cambiar su moneda a divisas extranjeras!"
+	},
+	{
+		title: "Fact 5",
+		text:  "Nuestros primeros habitantes datan de 2,000 años a. de C.; visite uno de nuestros parques ceremoniales indígenas para informarse más acerca de nuestra historia precolombina."
+	},
+	{
+		title: "Fact 6",
+		text:  "Nuestra mascota no oficial es una diminuta rana arborícola llamada el coquí, que se encuentra solo en Puerto Rico; podrá escuchar su melodía única de “ko-kii” por toda la isla."
+	},
+	{
+		title: "Fact 7",
+		text:  "Más del 70 % del ron vendido en EE. UU. proviene de Puerto Rico; pruebe nuestras marcas locales favoritas y disfrute de una excursión por nuestras destilerías de ron."
+	},
+	{
+		title: "Fact 8",
+		text:  "Puerto Rico cuenta con el radiotelescopio de un solo plato más grande del mundo, que se extiende casi 20 acres. Es el único radiotelescopio que puede predecir con precisión cuándo y dónde un asteroide pudiera chocar con la Tierra, y fue responsable de las primeras imágenes de asteroides en la historia. Los visitantes pueden recorrer esta instalación en Arecibo.  "
+	},
+	{
+		title: "Fact 9",
+		text:  "La segunda estación de radio más antigua en EE. UU. y la quinta bajo licencia en el mundo fue la propia WKAQ-AM de Puerto Rico. Todavía está en funciones y transmitiendo nuestra últimas noticias."
+	},
+	{
+		title: "Fact 10",
+		text:  "La Hacienda Buena Vista, una plantación de café y finca agrícola del siglo XIX en Ponce, meticulosamente restaurada, tiene el único ejemplar en funcionamiento de una turbina hidráulica Barker, considerada una Joya de la Ingeniería Mecánica por la Sociedad Americana de Ingenieros Mecánicos en 1994. Una visita a este sitio histórico emblemático es una mirada maravillosa y auténtica a la manera en que se producía el café a principios del siglo."
+	},
+	{
+		title: "Fact 11",
+		text:  "El Yunque es la única selva subtropical en el Servicio Forestal Nacional de EE. UU., un lugar tan indescriptible que tiene que ser visto, escuchado y sentido. Es uno de nuestros destinos que no puede dejar de visitar. "
+	},
+	{
+		title: "Fact 12",
+		text:  "El nombre de “Puerto Rico” no fue nuestro nombre original. Desde 1493 a 1508, Puerto Rico se llamó San Juan Bautista, en honor de ese santo. Hoy en día, los lugareños la llaman “Isla del Encanto”. "
+	},
+	{
+		title: "Fact 13",
+		text:  "La Isla Mona de Puerto Rico, que tiene más de 100 especies en peligro de extinción, se conoce como el “Galápagos del Caribe”. "
+	},
+	{
+		title: "Fact 14",
+		text:  "Nuestras 300 playas incluyen ocho que han sido colocadas en la lista del prestigioso Programa de Bandera Azul, que premia los esfuerzos sostenibles por mantener altas normas de calidad del agua, educación y administración ambiental, y seguridad."
+	}
+]

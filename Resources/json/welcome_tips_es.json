@@ -1,0 +1,103 @@
+[
+	{
+		title: "Tip 1",
+		text:  "Planifique su viaje lo más que pueda antes de viajar."
+	},
+	{
+		title: "Tip 2",
+		text:  "Establezca su presupuesto diario a fin de que el dinero le alcance para todas sus vacaciones."
+	},
+	{
+		title: "Tip 3",
+		text:  "Traiga sus tarjetas de crédito. Todas las tarjetas de crédito importantes se aceptan en la mayoría de los lugares y pueden ser muy útiles en casos de emergencias."
+	},
+	{
+		title: "Tip 4",
+		text:  "Vístase cómodo."
+	},
+	{
+		title: "Tip 5",
+		text:  "Traiga una cantidad suficiente de medicamentos prescriptos para que le duren todo el viaje. A pesar de que aquí se encuentran casi todas las cadenas de farmacias de E.E. U.U. y muchas trabajan 24 horas, nunca se sabe si el medicamento que usted necesita se encontrará disponible en caso de que lo necesite de manera inesperada."
+	},
+	{
+		title: "Tip 6",
+		text:  "Reserve tours, conciertos y shows por adelantado para evitar quedarse sin lugar."
+	},
+	{
+		title: "Tip 7",
+		text:  "Conserve toda la documentación para el viaje en el mismo lugar."
+	},
+	{
+		title: "Tip 8",
+		text:  "Familiarícese con algunas palabras básicas en español. Un simple “gracias” sería de gran ayuda."
+	},
+	{
+		title: "Tip 9",
+		text:  "Asegúrese de que el plan de su teléfono celular incluya el servicio de larga distancia y/o roaming internacional para evitar gastos innecesarios. A pesar de que Puerto Rico es territorio estadounidense, las llamadas de teléfonos celulares al continente se consideran de larga distancia, sin embargo actualmente la mayoría de los teléfonos celulares de E.E. U.U. incluyen a Puerto Rico en los planes ilimitados."
+	},
+	{
+		title: "Tip 10",
+		text:  "Esté dispuesto a vivir nuevas experiencias. Esto casi garantiza que pasará unas excelentes vacaciones."
+	},
+	{
+		title: "Tip 11: Protector solar",
+		text:  "El sol y las altas temperaturas que persisten durante todo el año pueden  dañar su piel, especialmente si no está acostumbrado al calor. Utilícelo, incluso si no planifica visitar la playa."
+	},
+	{
+		title: "Tip 12: Traje de baño",
+		text:  "Con tantas playas fabulosas para elegir, sería triste perderse la diversión por haberse olvidado el traje de baño (ninguna de nuestras playas públicas son nudistas)."
+	},
+	{
+		title: "Tip 13: Ropa liviana",
+		text:  "Luego de pasar todo el día paseando por el Viejo San Juan o Ponce, le dará mucha satisfacción haber traído esas cómodas camisas de algodón blancas."
+	},
+	{
+		title: "Tip 14: Calzado cómodo",
+		text:  "Calzado cómodo es sinónimo de pies felices, lo que a su vez significa vacaciones divertidas."
+	},
+	{
+		title: "Tip 15: Repelente de insects",
+		text:  "Protéjase de las desagradables picaduras de mosquitos, especialmente si planifica visitar la el bosque pluvial El Yunque o realizar actividades al aire libre."
+	},
+	{
+		title: "Tip 16: Equipos de alluvia",
+		text:  "Traiga un paraguas o poncho para mantener su cuerpo seco en caso de lluvias. El clima tropical es muy impredecible y puede comenzar a llover de un momento a otro."
+	},
+	{
+		title: "Tip 17: Sombrero",
+		text:  "Proteja de los rayos solares la parte más preciada de su cuerpo. Además lo ayudará a mantenerse más fresco."
+	},
+	{
+		title: "Tip 18: Ropa de bestir",
+		text:  "Si bien el atuendo apropiado 24/7 es casual, algunas discotecas, bares, restaurantes y shows requieren un atuendo más formal."
+	},
+	{
+		title: "Tip 19: Sandalias",
+		text:  "Éstas protegen sus pies de la arena caliente y se lavan fácilmente al momento de retirarse."
+	},
+	{
+		title: "Servicio de emergencias ",
+		text:  "911."
+	},
+	{
+		title: "Policía de Puerto Rico",
+		text:  "787-726-7020."
+	},
+	{
+		title: "Cuerpo de Bomberos",
+		text:  "787-725-3444."
+	},
+	{
+		title: "Servicio de emergencia médica",
+		text:  "787-754-2550."
+	},
+	{
+		title: "Hospital Ashford Presbyterian Community",
+		text:  "787-721-2160."
+	},
+	{
+		title: "Información turística",
+		text:  "787-722-1709."
+	}
+]
+

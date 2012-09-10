@@ -1,0 +1,58 @@
+[
+	{
+		title: "Fact 1",
+		text:  "Did you know that Puerto Rico is home to some of the world’s most impressive natural and manmade wonders? "
+	},
+	{
+		title: "Fact 2",
+		text:  "For a small island (it’s about 100 miles long and 35 miles wide, or roughly the size of Connecticut), we offer far more than our beaches … although if it’s a beach you want, we have 300 of them! "
+	},
+	{
+		title: "Fact 3",
+		text:  "In Puerto Rico, Spanish and English are the official languages; most Puerto Ricans speak English. "
+	},
+	{
+		title: "Fact 4",
+		text:  "Puerto Rico is a U.S. territory and the U.S. dollar is the official currency; U.S. citizens don’t need a passport or a currency converter!"
+	},
+	{
+		title: "Fact 5",
+		text:  "Our first inhabitants date back to 2,000 BC; visit one of our indigenous ceremonial parks to learn more about our Pre-Columbian history."
+	},
+	{
+		title: "Fact 6",
+		text:  "Our unofficial mascot is a tiny tree frog called the coquí, which is found only in Puerto Rico; you’ll hear its unique “ko-kee” melody all around the island."
+	},
+	{
+		title: "Fact 7",
+		text:  "More than 70% of the rum sold in the U.S. comes from Puerto Rico; sample our favorite local brands and enjoy a tour of our rum distilleries."
+	},
+	{
+		title: "Fact 8",
+		text:  "Puerto Rico houses the world's largest single-dish radio telescope, spanning almost 20 acres. It’s the only radio telescope that can accurately predict when and where an asteroid might collide with Earth, and was responsible for the first asteroid images in history. Visitors can tour this incredible facility at Arecibo. "
+	},
+	{
+		title: "Fact 9",
+		text:  "The second-oldest radio station in the U.S. and the fifth licensed radio station in the world was Puerto Rico’s own WKAQ-AM. It is still alive and well, broadcasting our breaking news."
+	},
+	{
+		title: "Fact 10",
+		text:  "Hacienda Buena Vista, a meticulously-restored 19th-century coffee plantation and estate in Ponce, holds the only remaining, functioning example of a Barker hydraulic turbine, which was named a Mechanical Engineering Landmark by the American Society of Mechanical Engineers in 1994. It is powered by water sluiced from high atop the adjacent mountain. A visit to this historic landmark is a wonderful and authentic look at how coffee was produced at the turn of the century."
+	},
+	{
+		title: "Fact 11",
+		text:  "El Yunque is the only subtropical rainforest in the U.S. National Forest Service, a place so indescribable that it must be seen, heard and felt. It’s one of our must-visit destinations."
+	},
+	{
+		title: "Fact 12",
+		text:  "Puerto Rico is Spanish for “rich port,” although that wasn’t our original name. From 1493 to 1508, Puerto Rico was called San Juan Bautista, in honor of Saint John the Baptist. Today, the locals call it Isla del Encanto, which means “Island of Enchantment.” "
+	},
+	{
+		title: "Fact 13",
+		text:  "Puerto Rico’s Mona Island, home to more than 100 endangered species, is known as the “Galapagos of the Caribbean.” "
+	},
+	{
+		title: "Fact 14",
+		text:  "Our 300 beaches include eight beaches that have been listed under the prestigious Blue Flag Programme, which awards sustainable efforts at maintaining high standards of water quality, environmental education and management, and safety."
+	}
+]

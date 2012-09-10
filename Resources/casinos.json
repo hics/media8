@@ -1,0 +1,50 @@
+[
+	{
+		"category": "Casinos",
+		"name": "Best Western Pichi's Convention Center",
+		"address": "Exit 205 Road 127 Km 8.6",
+		"city": "Guayanilla",
+		"state": "PR",
+		"zip": "656",
+		"latitude": "18.02364",
+		"longitude": "-66.792989",
+		"phone": "787-835-3335",
+		"description": "Open until 4 in the morning, this Guayanilla casino has a whopping 317 slot machines and 12,400 square feet of gaming space."
+	},
+	{
+		"category": "Casinos",
+		"name": "Casino Del Mar at La Concha Hotel",
+		"address": "1077 Ashford Avenue",
+		"city": "San Juan",
+		"state": "PR",
+		"zip": "907",
+		"latitude": "18.46617",
+		"longitude": "-66.106654",
+		"phone": "787-721-8500",
+		"description": "Located in the hub of CondadoÌs nightlife, the casino at the posh La Concha Hotel is open 24 hours and is the hotspot to see and be seen"
+	},
+	{
+		"category": "Casinos",
+		"name": "Casino Del Sol at Courtyard by Marriott",
+		"address": "7012 Boca de Cangrejos Ave.",
+		"city": "Carolina",
+		"state": "PR",
+		"zip": "979",
+		"latitude": "18.442644",
+		"longitude": "-66.023135",
+		"phone": "787-791-0404",
+		"description": "Open 24 hours, this beachfront Isla Verde Casino has everything from blackjack to mini baccarat, laid out in over 14,000 square feet of space."
+	},
+	{
+		"category": "Casinos",
+		"name": "Casino Metro at Sheraton Convention Center",
+		"address": "200 Convention Boulevard",
+		"city": "San Juan",
+		"state": "PR",
+		"zip": "907",
+		"latitude": "18.46617",
+		"longitude": "-66.106654",
+		"phone": "787-993-3500",
+		"description": "Located in the modern Convention District of Miramar, the casino at the Sheraton Convention Center has over 20,000 square feet of space and is open 24 hours."
+	}
+]
